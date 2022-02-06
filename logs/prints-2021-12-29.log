@@ -1,0 +1,8 @@
+12:32:58.887 [main] INFO  Tests.HomePageTest - Driver is intialized
+12:33:00.151 [main] INFO  Tests.HomePageTest - Navigated to home page
+12:33:05.791 [main] INFO  Tests.HomePageTest - Female
+12:33:05.808 [main] INFO  Tests.HomePageTest - Male
+12:33:05.822 [main] INFO  Tests.HomePageTest - Custom
+12:33:05.828 [main] INFO  Tests.HomePageTest - 3
+12:33:06.389 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xcdbc81a874a47c14
+12:33:06.476 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame opCode=8

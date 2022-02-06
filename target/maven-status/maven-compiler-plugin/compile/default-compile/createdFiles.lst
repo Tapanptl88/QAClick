@@ -1,0 +1,5 @@
+Resources\Base.class
+PageObjects\LandingPage.class
+academy\QAClickProject\App.class
+PageObjects\SignUpPage.class
+Resources\ExtentReport.class
